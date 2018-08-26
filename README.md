@@ -10,7 +10,6 @@ https://localhost:5001/ui/playground
         nome
       }
     }
-    
 ```
 ```
  {
@@ -18,5 +17,4 @@ https://localhost:5001/ui/playground
         nome
       }
     }
-    
 ```
