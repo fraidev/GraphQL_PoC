@@ -11,6 +11,8 @@ https://localhost:5001/ui/playground
       }
     }
     
+```
+```
  {
       professor(cpf:"11111111113") {
         nome
