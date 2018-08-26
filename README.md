@@ -2,10 +2,19 @@
 
 https://localhost:5001/ui/playground
 
-### Exemplo de Consulta
+### Exemplos de Consulta
+```
+
  {
       aluno(cpf:"11111111111") {
         nome
       }
     }
     
+ {
+      professor(cpf:"11111111113") {
+        nome
+      }
+    }
+    
+```
